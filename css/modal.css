@@ -1,13 +1,13 @@
 @font-face {
     font-family: 'Great Vibes';
-    src: url(../fonts/GreatVibes-Regular.ttf);
+    src: url(../fonts/GreatVibes-Regular.woff2);
     font-display: swap;
     font-weight: 400;
 }
 
 @font-face {
     font-family: 'Tenor Sans';
-    src: url(../fonts/TenorSans-Regular.ttf);
+    src: url(../fonts/TenorSans-Regular.woff2);
     font-display: swap;
     font-weight: 400;
 }
